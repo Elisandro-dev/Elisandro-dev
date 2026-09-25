@@ -1,6 +1,14 @@
-# Hi, I'm Elisandro Varela 👋
+<div align="center">
 
-### Systems & IT/OT Integration | Software, Data & Industrial IoT
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2600&pause=900&color=00D9FF&center=true&vCenter=true&width=850&lines=Initializing+Elisandro+Varela...;Systems+%7C+Data+%7C+IT%2FOT+Integration;Building+digital+solutions+for+real+operations." alt="Typing introduction" />
+
+<br/>
+
+### Systems & IT/OT Integration · Software · Data · Industrial IoT
+
+</div>
+
+> **Status:** Turning real operational challenges into reliable digital solutions.
 
 I'm a systems-focused professional transitioning from Industrial Automation to IT. I combine 8+ years of hands-on experience in commissioning, troubleshooting and systems integration with practical software, data and connected-machine projects.
 
